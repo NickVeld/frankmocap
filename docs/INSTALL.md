@@ -48,7 +48,6 @@
   - Run the following script
   ```
   sh scripts/install_frankmocap.sh
-  sh scripts/compile_hand_detectors.sh
   ```
 
 - Setting SMPL/SMPL-X Models
